@@ -14,7 +14,7 @@ python3.10 main.py
 ## Examples for encoding
 
 ```console
-![example](https://github.com/wentingliuu/restaurant-forum/blob/main/src/assets/restaurant-tabs.gif)
+![example](https://github.com/yidti/watermarking-cat/sample/sample-1.png)
 ```
 
 ## Introduction - [Digital watermarking](https://en.wikipedia.org/wiki/Digital_watermarking)
