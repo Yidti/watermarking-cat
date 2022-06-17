@@ -1,7 +1,6 @@
 # Watermarking Cat
 
-Watermarking Cat is a Python script which create a watermarking for selected image.
-Desktop GUI app run with Tkinter.
+Watermarking Cat is a Python GUI Programming with Tkinter which create a watermarking for selected image.
 
 ## Run the script
 
@@ -12,8 +11,10 @@ python3.10 main.py
 ```
 
 ## Examples for encoding
+
 ![sample-1](https://github.com/Yidti/watermarking-cat/blob/master/sample/sample-1.png)
 ![sample-2](https://github.com/Yidti/watermarking-cat/blob/master/sample/sample-2.png)
+
 ## Introduction - [Digital watermarking](https://en.wikipedia.org/wiki/Digital_watermarking)
 
 1. 數位浮水印 (Digital watermarking) 是一種偷偷地鑲嵌在音訊、視頻、影像數據等抗噪信號中的標記，它通常用於識別此類信號的版權所有權。
@@ -22,6 +23,7 @@ python3.10 main.py
 ## Version History
 
 ### V.1.0 - 2022.06.16
+
 1. select multiple files and show thumbnails
 2. support JPEG, JPG, PNG
 3. change font size of watermark
