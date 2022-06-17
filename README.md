@@ -10,7 +10,7 @@ cd watermarking-cat
 python3.10 main.py
 ```
 
-## Examples for encoding
+## Examples
 
 ![sample-1](https://github.com/Yidti/watermarking-cat/blob/master/sample/sample-1.png)
 ![sample-2](https://github.com/Yidti/watermarking-cat/blob/master/sample/sample-2.png)
